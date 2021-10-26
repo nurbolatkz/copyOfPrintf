@@ -15,11 +15,13 @@ Printf working principle
 Upon successful completion, these functions return the number of characters printed.
 
 #### Using functions
-```void printfadrs(void* a);
+```
+void printfadrs(void* a);
 char* convert(unsigned int num, int base);
 int chprintf(char* s);
 char intohex(int v);
-int print_ads(void* p);```
+int print_ads(void* p);
+```
 
 
 ##### Format flags
