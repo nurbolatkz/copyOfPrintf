@@ -47,6 +47,7 @@ my_printf("returned value - %d", my_printf("number - %d", n);)
 ```
 
 <b>output</b>
+
 number - 150;
 char- a
 number - 150;
