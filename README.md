@@ -38,14 +38,15 @@ My_printf function works with flags
 
 
 #### Expected outputs
-//peace of code
+```
 int n = 150;
 char a = 'b';
 my_printf("number - %d", n);
 my_printf("char - %c", a);
 my_printf("returned value - %d", my_printf("number - %d", n);)
+```
 
-// output
+<b>output</b>
 number - 150;
 char- a
 number - 150;
